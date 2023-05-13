@@ -59,12 +59,12 @@ p:last-child{ solo ultimo hijo firts primero  only si es uno solo
 
 @font-face {
     font-family: 'MiNuevaFuente';
-    src: url('https://github.com/Trickster-011/webgit/blob/main/FetteThannhaeuser.ttf');
+    src: url("https://github.com/Trickster-011/webgit/blob/main/FetteThannhaeuser.ttf");
 }
 
 @font-face {
     font-family: 'MiNuevaFuente2';
-    src: url('https://github.com/Trickster-011/webgit/blob/main/LibreBaskerville-Italic.ttf');
+    src: url("https://github.com/Trickster-011/webgit/blob/main/LibreBaskerville-Italic.ttf");
 }
 
 * {
